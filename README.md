@@ -1,12 +1,3 @@
-<div align="center">
-
-![Hi](https://img.shields.io/badge/👋_Hi-Welcome!-2d2d2d?style=for-the-badge&labelColor=1793d1)
-![Visitor](https://img.shields.io/badge/👀_Scroll_down-↓-1793d1?style=for-the-badge)
-
-</div>
-
----
-
 ### 👋 About me
 
 I work on **personal projects** and **free software**. I develop **Telegram bots** and **Minecraft mods** — including on request. I build **landing pages** and websites.
@@ -32,6 +23,7 @@ I also work with **generative AI** and **machine learning**.
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
@@ -39,12 +31,15 @@ I also work with **generative AI** and **machine learning**.
 
 🐧 **Systems:** Arch Linux · NixOS · macOS  
 ✏️ **Editors:** Cursor · NeoVim
+🎨 **3D Models:** Blender · Blockbench
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Blockbench](https://img.shields.io/badge/Blockbench-1E90FF?style=flat-square&logo=cubecraft&logoColor=white)
 
 ---
 
