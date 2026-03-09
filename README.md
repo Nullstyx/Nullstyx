@@ -1,18 +1,18 @@
 <div align="center">
 
-![Header](https://img.shields.io/badge/Привет_👋-Добро_пожаловать-2d2d2d?style=for-the-badge&labelColor=1793d1)
+![Header](https://img.shields.io/badge/Hi_👋-Welcome-2d2d2d?style=for-the-badge&labelColor=1793d1)
 
 </div>
 
 ---
 
-### 👋 Обо мне
+### 👋 About me
 
-Создаю **Telegram-ботов** на Python, делаю **моды для Minecraft** и разные небольшие проекты. Работаю и над личными задачами, и над free software.
+I build **Telegram bots** in Python, make **Minecraft mods**, and work on various small projects. I work on both personal projects and free software.
 
 ---
 
-### 🛠 Технологии
+### 🛠 Technologies
 
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -21,10 +21,10 @@
 
 ---
 
-### 💻 Окружение
+### 💻 Environment
 
-🐧 **Системы:** Arch Linux · NixOS · macOS  
-✏️ **Редакторы:** Cursor · NeoVim
+🐧 **Systems:** Arch Linux · NixOS · macOS  
+✏️ **Editors:** Cursor · NeoVim
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
