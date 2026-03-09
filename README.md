@@ -1,10 +1,8 @@
-<div align="center">
 
-<img src="https://img.shields.io/badge/Hi_👋-Welcome-1793d1?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Developer-Creator-2d2d2d?style=for-the-badge&labelColor=1793d1" />
-<img src="https://img.shields.io/badge/Bots_·_Mods_·_AI-Building_stuff-0d1117?style=for-the-badge&labelColor=5277C3" />
 
-</div>
+Header
+
+
 
 ---
 
