@@ -23,13 +23,12 @@
 
 ### 💻 Окружение
 
-| Категория | Стек |
-|-----------|------|
-| 🐧 Системы | Arch Linux · NixOS |
-| ✏️ Редакторы | Cursor · NeoVim |
+🐧 **Системы:** Arch Linux · NixOS · macOS  
+✏️ **Редакторы:** Cursor · NeoVim
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
