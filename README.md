@@ -31,15 +31,11 @@ I also work with **generative AI** and **machine learning**.
 
 🐧 **Systems:** Arch Linux · NixOS · macOS  
 ✏️ **Editors:** Cursor · NeoVim
-🎨 **3D Models:** Blender · Blockbench
-
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Blockbench](https://img.shields.io/badge/Blockbench-1E90FF?style=flat-square&logo=cubecraft&logoColor=white)
 
 ---
 
