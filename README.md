@@ -1,8 +1,9 @@
+<div align="center">
 
+![Hi](https://img.shields.io/badge/👋_Hi-Welcome!-2d2d2d?style=for-the-badge&labelColor=1793d1)
+![Visitor](https://img.shields.io/badge/👀_Scroll_down-↓-1793d1?style=for-the-badge)
 
-Header
-
-
+</div>
 
 ---
 
@@ -14,21 +15,21 @@ I also work with **generative AI** and **machine learning**.
 
 ---
 
-### 🛠 What I do?
+### 🛠 What I do
 
-Telegram
-Minecraft
-Web
-AI
+![Telegram Bots](https://img.shields.io/badge/🤖_Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Minecraft Mods](https://img.shields.io/badge/⛏_Minecraft_Mods-62B47A?style=flat-square&logo=minecraft&logoColor=white)
+![Landing Pages](https://img.shields.io/badge/🌐_Landing_Pages-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![AI & ML](https://img.shields.io/badge/🧠_Generative_AI_&_ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
 ### 💻 Tech stack
 
-Nix
-Java
-Python
-Rust
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ---
 
@@ -37,17 +38,16 @@ Rust
 🐧 **Systems:** Arch Linux · NixOS · macOS  
 ✏️ **Editors:** Cursor · NeoVim
 
-Arch
-NixOS
-macOS
-Neovim
-Cursor
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ---
 
 ### 📬 Contact
 
-[Telegram](https://t.me/AdderaIIXR)
+[![Telegram](https://img.shields.io/badge/✈️_Telegram-AdderaIIXR-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AdderaIIXR)
 
 ---
-
