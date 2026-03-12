@@ -6,9 +6,9 @@ I work on **personal projects** and **free software**, with a primary focus on b
 
 ### 🛠 What I do
 
-![AI Agents](https://img.shields.io/badge/🤖_AI_Agents-8A2BE2?style=flat-square&logo=brains&logoColor=white)
-![Pet projects](https://img.shields.io/badge/Pet_Projects-1E90FF?style=flat-square&logo=github&logoColor=white)
 ![Open source](https://img.shields.io/badge/Open_Source-34D058?style=flat-square&logo=github&logoColor=white)
+![Pet projects](https://img.shields.io/badge/Pet_Projects-1E90FF?style=flat-square&logo=github&logoColor=white)
+![AI Agents](https://img.shields.io/badge/🤖_AI_Agents-8A2BE2?style=flat-square&logo=brains&logoColor=white)
 ![Sites & bots](https://img.shields.io/badge/Sites_&_Bots-FF9800?style=flat-square&logo=google-chrome&logoColor=white)
 
 ---
@@ -19,7 +19,7 @@ I work on **personal projects** and **free software**, with a primary focus on b
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Other Minor Ones](https://img.shields.io/badge/Other_Minor_Ones-555555?style=flat-square)
+![Other Minor Ones](https://img.shields.io/badge/🚬_Other_Minor_Ones-555555?style=flat-square)
 
 ---
 
@@ -27,7 +27,6 @@ I work on **personal projects** and **free software**, with a primary focus on b
 
 🐧 **Systems:**
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ✏️ **Editors:**
