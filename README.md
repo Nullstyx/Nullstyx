@@ -28,6 +28,6 @@ I work on **personal projects** and **free software**. From time to time I also 
 
 ### 📬 Contact
 
-[![Telegram](https://img.shields.io/badge/✈️_Telegram-AdderaIIXR-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AdderaIIXR)
+[![Telegram](https://img.shields.io/badge/✈️_Telegram-Nullstyx-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nullstyx)
 
 ---
